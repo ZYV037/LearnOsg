@@ -1,5 +1,5 @@
 # LearnOsg
-OpenSceneGraphi3.0 example
+OpenSceneGraphi3.0 example    
   the example write with qt.
   
 - [Osg](https://github.com/openscenegraph/OpenSceneGraph)
