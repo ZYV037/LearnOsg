@@ -1,6 +1,6 @@
 # LearnOsg
 OpenSceneGraphi3.0 example    
-  the example write with qt.
+  The Example code write with Qt mingw64 gdb8.1.
   
 - [Osg](https://github.com/openscenegraph/OpenSceneGraph)
 
